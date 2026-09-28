@@ -13,7 +13,15 @@ The core. Numbered steps IN YOUR OWN WORDS: what you looked at, what you found, 
 
 2. Once in the resource page list, we find that there one resource which is not apart of the Naming convention. Lets select it and see what we find.
 
-3. Once inside the resource we can see that there is an
+3. Once inside the resource we can see that there is a resource deployed. 
+
+4. Opening the resource we can see multiple blades on the left panel. In order to find the owner of the machine we'll have to go to the Tags blade.
+
+5. While inside the Tags blade we can confirm the owner of the resource Group is who deployed it. Lets find out how and why it was deployed.
+
+6. returning to the Resource Group home page lets look on the last blades and we can find when it was deployed. 
+
+7. 
 
 ## What broke / what surprised me
 The most credible section in the document. Dead ends, wrong guesses, the thing that took an hour. Employers know real work is messy. This section separates you from certificate collectors.
