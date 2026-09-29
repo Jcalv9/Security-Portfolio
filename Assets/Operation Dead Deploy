@@ -12,8 +12,10 @@ Stage 1.
 
 Selecting resource Group to begin our investigation. Here we can filter thru Naming convention.
 
-While going thru the list we see a failure in naming convention. 
+![image alt](https://github.com/Jcalv9/Security-Portfolio/blob/2f84e9a502d01cddae645a2e5c5cb7e2ca2131ca/Screenshot%202026-09-29%20193810.png)
 
+While going thru the list we see a failure in naming convention. 
+7
 Stage 2, 
 
 Opening the environment we found a file which could help us. We select the file to which on the left side produces a panel with different blades.
