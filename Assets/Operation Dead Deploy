@@ -12,7 +12,7 @@ Stage 1.
 
 Selecting resource Group to begin our investigation. Here we can filter thru Naming convention.
 
-we found the environment that stood out. 
+While going thru the list we see a failure in naming convention. 
 
 Stage 2, 
 
@@ -21,7 +21,7 @@ we can select the Tags blade in order to confirm the owner of the machine.
 
 Stage 3.
 
-we've confirmed that who the owner was now comes for the fun party.  
+While inside of the Tags blade we see can confirm the owner of this machine. 
 
 ## What broke / what surprised me
 The most credible section in the document. Dead ends, wrong guesses, the thing that took an hour. Employers know real work is messy. This section separates you from certificate collectors.
