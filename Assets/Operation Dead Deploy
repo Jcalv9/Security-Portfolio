@@ -14,14 +14,14 @@ Selecting resource Group to begin our investigation. Here we can filter thru Nam
 
 we found the environment that stood out. 
 
-Stage 2, mm
+Stage 2, 
 
 Opening the environment we found a file which could help us. We select the file to which on the left side produces a panel with different blades.
 we can select the Tags blade in order to confirm the owner of the machine. 
 
 Stage 3.
 
-we've confirmed that who the owner was now comes for the fun party.  analyzing the payload
+we've confirmed that who the owner was now comes for the fun party.  
 
 ## What broke / what surprised me
 The most credible section in the document. Dead ends, wrong guesses, the thing that took an hour. Employers know real work is messy. This section separates you from certificate collectors.
