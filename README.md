@@ -11,7 +11,7 @@ Contact: calvillo.jairo@gmail.com · www.linkedin.com/in/jairo-calvillo-47624623
 | # | Title | Focus | Write-up |
 |---|-------|-------|----------|
 | 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | https://github.com/Jcalv9/Security-Portfolio/issues/1#issue-5637573650 |
-| 2 | The Stolen Identity | App registration attack kill chain (Entra ID) | coming, week 2 |
+| 2 | The Stolen Identity | App registration attack kill chain (Entra ID) | https://github.com/Jcalv9/Security-Portfolio/issues/2#issue-5752876484 |
 | 3 | Privilege Audit | RBAC and least privilege | coming, week 3 |
 | 4 | Spin Up and Lock Down | Compute attack surface | coming, week 4 |
 | 5 | Network the Operative | Network segmentation | coming, week 5 |
